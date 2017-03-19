@@ -1,2 +1,2 @@
 # judoku
-judoku is a sudoku game
+judoku is a sudoku game!
